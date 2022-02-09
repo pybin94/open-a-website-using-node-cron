@@ -7,7 +7,7 @@ $ npm install --save request
 
 node cron 시간 설정
 
-* * * * * *
+'* * * * * *'
 (좌측 * 부터)
 second (optional)   0-59
 minute 	            0-59
