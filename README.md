@@ -14,7 +14,7 @@ forever - node 백그라운드 실행<br>
 $ npm install forever -g
 
 2. 실행<br>
-$ forever start getApi.js
+$ forever start corn.js
 
 3. 종료<br>
 리스트 조회<br>
