@@ -6,7 +6,7 @@ request 설치<br>
 $ npm install --save request
 
 node cron 시간 설정<br>
-https://www.npmjs.com/package/node-cron#user-content-cron-syntax
+https://www.npmjs.com/package/node-cron
 
 forever - node 백그라운드 실행<br>
 
