@@ -17,8 +17,8 @@ $ npm install forever -g
 $ forever start getApi.js
 
 종료<br>
-1. 리스트 조회
+리스트 조회<br>
 $ forever list
 
-2. 리스트 숫자 입력
+리스트 숫자 입력<br>
 $ forever stop 0 (리스트 숫자)
