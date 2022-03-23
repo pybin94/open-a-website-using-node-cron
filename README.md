@@ -2,9 +2,6 @@
 node-cron 설치<br>
 `$ npm install --save node-cron`
 
-request 설치<br>
-`$ npm install --save request`
-
 node cron 시간 설정<br>
 https://www.npmjs.com/package/node-cron
 
