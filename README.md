@@ -20,5 +20,5 @@ forever - node 백그라운드 실행<br>
 `$ forever list`
 
 5. 종료
-`$ forever stop 0` 
+`$ forever stop 0`<br>
 0 = (forever list index)
